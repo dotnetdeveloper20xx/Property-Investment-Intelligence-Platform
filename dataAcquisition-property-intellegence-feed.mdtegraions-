@@ -1,0 +1,732 @@
+# Phase-16-Data-Acquisition-Property-Integrations-And-Intelligence-Feeds.md
+
+# Property Investment Intelligence Platform
+
+## Phase 16 – Data Acquisition, Property Integrations & Intelligence Feeds
+
+---
+
+# Introduction
+
+The previous phases built a powerful investment platform.
+
+The platform can:
+
+* Analyse opportunities
+* Process legal packs
+* Generate AI recommendations
+* Assess risks
+* Manage portfolios
+* Generate reports
+* Automate workflows
+* Monitor investments
+* Manage subscriptions
+
+However, the platform still depends heavily on users providing information.
+
+Professional investors want something more powerful.
+
+They want a platform that gathers intelligence automatically.
+
+Instead of manually searching websites, downloading documents, reviewing public records, and checking market data, investors want the platform to do that work for them.
+
+This phase introduces the Data Acquisition, Property Integrations, and Intelligence Feed Platform.
+
+The objective is simple:
+
+Move from user-provided intelligence to continuously acquired intelligence.
+
+---
+
+# Business Objectives
+
+The platform should answer:
+
+### What information already exists about this property?
+
+### What public records are available?
+
+### What market intelligence can be gathered automatically?
+
+### What new information has appeared since yesterday?
+
+### What opportunities can be discovered automatically?
+
+The platform becomes an intelligence collection engine.
+
+---
+
+# Data Acquisition Philosophy
+
+Information should be gathered once and reused many times.
+
+The platform should minimise manual data entry.
+
+The platform should maximise automated intelligence gathering.
+
+Every external data source becomes a potential competitive advantage.
+
+---
+
+# Property Intelligence Sources
+
+The platform should support multiple external data providers.
+
+Examples:
+
+Land Registry
+
+EPC Register
+
+Planning Portals
+
+Companies House
+
+Auction Feeds
+
+Property Portals
+
+Market Intelligence Providers
+
+Open Government Data
+
+The objective is a complete property intelligence ecosystem.
+
+---
+
+# Land Registry Integration
+
+One of the most valuable integrations.
+
+Capabilities:
+
+Property Ownership
+
+Historical Sales
+
+Price Paid Data
+
+Title Information
+
+Ownership History
+
+Comparable Sales
+
+This dramatically improves investment analysis.
+
+---
+
+# Property Sales Intelligence
+
+Automatically retrieve:
+
+Last Sale Price
+
+Last Sale Date
+
+Historical Transactions
+
+Price Trends
+
+Neighbouring Sales
+
+The platform should understand property history.
+
+---
+
+# EPC Integration
+
+Energy Performance Certificate intelligence.
+
+Retrieve:
+
+EPC Rating
+
+Expiry Date
+
+Recommendations
+
+Property Efficiency
+
+Environmental Performance
+
+Investors gain additional context.
+
+---
+
+# EPC Risk Analysis
+
+Automatically identify:
+
+Poor EPC Ratings
+
+Future Compliance Issues
+
+Upgrade Requirements
+
+Potential Improvement Opportunities
+
+Useful for landlords and portfolio managers.
+
+---
+
+# Planning Portal Integration
+
+Monitor planning activity.
+
+Examples:
+
+Nearby Applications
+
+Approved Developments
+
+Rejected Applications
+
+Appeals
+
+Planning Conditions
+
+Planning data is often a leading indicator of growth.
+
+---
+
+# Planning Intelligence Engine
+
+Automatically identify:
+
+Development Opportunities
+
+Neighbouring Developments
+
+Regeneration Activity
+
+Potential Risks
+
+Growth Catalysts
+
+The platform becomes more predictive.
+
+---
+
+# Companies House Integration
+
+Useful for commercial property and professional relationships.
+
+Capabilities:
+
+Company Information
+
+Directors
+
+Financial Status
+
+Registered Offices
+
+Corporate Ownership
+
+Useful for due diligence.
+
+---
+
+# Auction Feed Integration
+
+One of the most commercially valuable features.
+
+Sources:
+
+Auction Houses
+
+Property Auctions
+
+Commercial Auctions
+
+Land Auctions
+
+The platform should continuously monitor auction opportunities.
+
+---
+
+# Auction Opportunity Engine
+
+Automatically:
+
+Import Auction Lots
+
+Analyse Opportunities
+
+Calculate Scores
+
+Generate Recommendations
+
+Create Alerts
+
+The platform actively discovers opportunities.
+
+---
+
+# Property Portal Integrations
+
+Future support.
+
+Potential providers:
+
+PropertyData
+
+Sprift
+
+Nimbus
+
+Licensed Data Providers
+
+The platform should remain provider-independent.
+
+---
+
+# Comparable Property Engine
+
+Automatically gather:
+
+Comparable Sales
+
+Comparable Rentals
+
+Market Benchmarks
+
+Area Performance
+
+The platform improves valuation accuracy.
+
+---
+
+# Rental Intelligence Feeds
+
+Automatically retrieve:
+
+Rental Trends
+
+Rental Demand
+
+Market Rent Estimates
+
+Vacancy Indicators
+
+The platform improves rental analysis.
+
+---
+
+# Market Intelligence Feeds
+
+Track:
+
+Growth Indicators
+
+Population Data
+
+Employment Data
+
+Regeneration Activity
+
+Infrastructure Investment
+
+These feeds improve location analysis.
+
+---
+
+# Crime Data Integration
+
+Monitor:
+
+Crime Levels
+
+Crime Trends
+
+Area Changes
+
+Safety Indicators
+
+Risk should be continuously monitored.
+
+---
+
+# Transport Data Integration
+
+Track:
+
+Stations
+
+Travel Times
+
+Infrastructure Projects
+
+Connectivity Improvements
+
+Transport influences property value.
+
+---
+
+# School Data Integration
+
+Automatically retrieve:
+
+School Ratings
+
+Performance Data
+
+Catchment Intelligence
+
+Family Demand Indicators
+
+Useful for residential investments.
+
+---
+
+# Flood Risk Integration
+
+Retrieve:
+
+Flood Zones
+
+Environmental Risks
+
+Insurance Impacts
+
+Climate Risk Indicators
+
+This supports risk analysis.
+
+---
+
+# Mortgage Intelligence Feeds
+
+Future capability.
+
+Track:
+
+Mortgage Products
+
+Rates
+
+Lender Appetite
+
+Market Changes
+
+This improves financing recommendations.
+
+---
+
+# Insurance Intelligence Feeds
+
+Future capability.
+
+Track:
+
+Insurance Availability
+
+Premium Trends
+
+Risk Factors
+
+Claims Indicators
+
+Supports ownership decisions.
+
+---
+
+# Property Watch Service
+
+One of the most powerful features.
+
+Users can monitor:
+
+Properties
+
+Areas
+
+Postcodes
+
+Auction Houses
+
+Market Segments
+
+The platform becomes a monitoring service.
+
+---
+
+# Data Refresh Framework
+
+Every data source should support:
+
+Real-Time
+
+Daily
+
+Weekly
+
+Monthly
+
+Configurable refresh schedules.
+
+---
+
+# Data Quality Engine
+
+Validate:
+
+Completeness
+
+Accuracy
+
+Consistency
+
+Freshness
+
+Data quality is critical.
+
+---
+
+# Data Source Monitoring
+
+Track:
+
+Availability
+
+Response Times
+
+Failures
+
+Refresh Status
+
+The platform must trust its data.
+
+---
+
+# Intelligence Feed Dashboard
+
+Display:
+
+Latest Data Updates
+
+New Opportunities
+
+Market Changes
+
+Planning Activity
+
+Auction Activity
+
+The platform becomes an intelligence terminal.
+
+---
+
+# Data Warehouse Foundation
+
+Prepare for future analytics.
+
+Store:
+
+Historical Market Data
+
+Historical Property Data
+
+Historical Risk Data
+
+Historical Performance Data
+
+This enables future machine learning.
+
+---
+
+# User Experience Goals
+
+The platform should feel like:
+
+An intelligence gathering network.
+
+A property research company.
+
+An investment data provider.
+
+A market monitoring platform.
+
+Users should spend less time searching and more time deciding.
+
+---
+
+# Technical Requirements
+
+Backend:
+
+Integration Services
+
+Feed Processors
+
+Data Synchronisation Services
+
+Data Quality Services
+
+Monitoring Services
+
+Refresh Services
+
+---
+
+# Frontend Requirements
+
+Data Feed Dashboard
+
+Property Watch Centre
+
+Planning Monitor
+
+Auction Monitor
+
+Market Feed Dashboard
+
+Data Source Health Dashboard
+
+---
+
+# Database Requirements
+
+ExternalDataSources
+
+DataFeeds
+
+FeedExecutions
+
+PropertyIntelligence
+
+MarketIntelligence
+
+PlanningIntelligence
+
+AuctionLots
+
+ComparableSales
+
+RentalIntelligence
+
+FeedMonitoring
+
+DataQualityRecords
+
+---
+
+# API Requirements
+
+Examples:
+
+GET api/integrations
+
+GET api/feeds
+
+GET api/feeds/status
+
+GET api/planning
+
+GET api/auction-lots
+
+GET api/comparable-sales
+
+GET api/property-watch
+
+GET api/market-intelligence
+
+---
+
+# Definition Of Done
+
+Phase 16 is complete when:
+
+Land Registry integration exists.
+
+EPC integration exists.
+
+Planning integration exists.
+
+Auction feeds exist.
+
+Comparable sales exist.
+
+Rental intelligence exists.
+
+Market intelligence feeds exist.
+
+Property watch service exists.
+
+Data quality monitoring exists.
+
+Data source monitoring exists.
+
+Feed dashboard exists.
+
+The platform continuously gathers intelligence automatically.
+
+---
+
+# Why This Phase Matters
+
+This phase changes the platform from:
+
+### Analysis Platform
+
+to
+
+### Intelligence Platform
+
+Most competitors analyse information after users provide it.
+
+The Property Investment Intelligence Platform actively acquires intelligence.
+
+This dramatically increases value and creates a significant competitive advantage.
+
+---
+
+# AI Implementation Prompt
+
+You are a Senior Solution Architect, Data Integration Architect, Property Intelligence Architect, ASP.NET Core Architect, Angular Architect, CQRS Specialist, and Enterprise Software Engineer.
+
+Implement Phase 16 – Data Acquisition, Property Integrations & Intelligence Feeds.
+
+Requirements:
+
+1. Create Integration Framework.
+2. Create Feed Processing Engine.
+3. Create Land Registry Integration.
+4. Create EPC Integration.
+5. Create Planning Portal Integration.
+6. Create Companies House Integration.
+7. Create Auction Feed Integration.
+8. Create Comparable Sales Engine.
+9. Create Rental Intelligence Feeds.
+10. Create Market Intelligence Feeds.
+11. Create Crime Data Integration.
+12. Create School Data Integration.
+13. Create Transport Data Integration.
+14. Create Flood Risk Integration.
+15. Create Property Watch Service.
+16. Create Data Refresh Framework.
+17. Create Data Quality Engine.
+18. Create Feed Monitoring.
+19. Create Intelligence Feed Dashboard.
+20. Create Data Warehouse Foundation.
+21. Create CQRS Commands.
+22. Create CQRS Queries.
+23. Create Handlers.
+24. Create Validators.
+25. Create DTOs.
+26. Create Angular Pages.
+27. Create Integration APIs.
+28. Create Database Schema.
+29. Create Unit Tests.
+30. Create Integration Tests.
+
+Follow:
+
+* Clean Architecture
+* CQRS
+* SOLID Principles
+* Enterprise Integration Standards
+* Data Quality Best Practices
+
+Generate production-ready implementation and continue until the entire phase is fully completed and operational.
